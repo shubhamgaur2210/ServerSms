@@ -1,0 +1,13 @@
+{
+  "name": "sms-api",
+  "version": "1.0.0",
+  "description": "SMS API test project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
+
